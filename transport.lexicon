@@ -5,6 +5,7 @@
     version="1.0" alphabet="ipa" xml:lang="bg-BG"
     xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
 
+  <!-- Транспортни съкращения -->
   <lexeme>
     <grapheme>CMR</grapheme>
     <alias>це ем ер</alias>
@@ -12,12 +13,74 @@
 
   <lexeme>
     <grapheme>ADR</grapheme>
-    <alias>а-де-ер</alias>
+    <alias>а де ер</alias>
   </lexeme>
 
   <lexeme>
-    <grapheme>BTW</grapheme>
-    <alias>By the way</alias>
+    <grapheme>TIR</grapheme>
+    <alias>тир</alias>
+  </lexeme>
+
+  <!-- Основни транспортни термини -->
+  <lexeme>
+    <grapheme>тахограф</grapheme>
+    <phoneme>taxoˈɡraf</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>дневна почивка</grapheme>
+    <phoneme>ˈdnɛvna poˈt͡ʃifka</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>междудневна почивка</grapheme>
+    <phoneme>mɛʒduˈdnɛvna poˈt͡ʃifka</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>седмична почивка</grapheme>
+    <phoneme>ˈsɛdmit͡ʃna poˈt͡ʃifka</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>намалена седмична почивка</grapheme>
+    <phoneme>namaˈlɛna ˈsɛdmit͡ʃna poˈt͡ʃifka</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>редовна седмична почивка</grapheme>
+    <phoneme>rɛˈdɔvna ˈsɛdmit͡ʃna poˈt͡ʃifka</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>работно време</grapheme>
+    <phoneme>raˈbotno ˈvrɛmɛ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>време на управление</grapheme>
+    <phoneme>ˈvrɛmɛ na upravˈlɛnʲiɛ</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>максимално време</grapheme>
+    <phoneme>maksimˈalno ˈvrɛmɛ</phoneme>
+  </lexeme>
+
+  <!-- Часове и ударения -->
+  <lexeme>
+    <grapheme>часа</grapheme>
+    <phoneme>t͡ʃaˈsa</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>9 часа</grapheme>
+    <phoneme>ˈdɛvɛt t͡ʃaˈsa</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>11 часа</grapheme>
+    <phoneme>ˈɛlɛvɛn t͡ʃaˈsa</phoneme>
   </lexeme>
 
 </lexicon>
